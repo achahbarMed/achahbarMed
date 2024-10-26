@@ -16,7 +16,8 @@ I'm a passionate developer with an interest in open-source projects, cross-platf
 - ⚡ Fun fact: When I'm not coding, I enjoy gaming, reading, and outdoor adventures.
 
 ### Languages & Tools
-- **Languages**: JavaScript, Python, C++, [Add More...]
+- **Languages**:
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 - **Frameworks & Libraries**: React, Node.js, Django, [Add More...]
 - **Tools**: Git, Docker, VS Code, Linux, [Add More...]
 
